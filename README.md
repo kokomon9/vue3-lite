@@ -11,3 +11,13 @@
 
 - ✅ Use [Vitest](http://vitest.dev/) for unit and components testing
 
+### Clone to local
+
+Untuk menggunakan boilerplate
+
+```bash
+npx degit kokomon9/vue3-lite frontend
+cd frontend
+pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+```
+
